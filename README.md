@@ -1,1 +1,1 @@
-# Bridal-Clothing-Retail-Store
+# Clothing-Retail-Store-DBMS
