@@ -1,14 +1,3 @@
-/*
-Assignment 10 
-Section 02
-CPS 510
-
-Group: 09 
-Members: Sidra Musheer      (501122840)
-         Maryam Fahmi       (501096276)
-         Veezish Ahmad      (501080184)
-*/
-
 -- Types for Grouped Attributes
 
 -- Type for Veil Description
