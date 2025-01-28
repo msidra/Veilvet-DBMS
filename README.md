@@ -1,5 +1,5 @@
 # Clothing Retail Store DBMS
-This project is a Database Management System designed for a hypothetical bridal store, as part of a Database Systems course. It supports a comprehensive set of operations for managing Veilvet's data, including inventory, clients, orders, alterations, and payments. The system provides a Java-based User Interface with SQL backend integration, enabling robust management and reporting features.
+This project is a Database Management System designed for a hypothetical bridal store, as part of a Database Systems course. The system integrates SQL, Java, and Shell Scripting to offer robust functionalities such as inventory and client management, order processing, and reporting. It also features both terminal-based and graphical user interfaces for ease of operation.
 
 Core Functionalities
 
@@ -22,6 +22,21 @@ Create, drop, and populate tables with predefined structures and sample data.
 Predefined and custom SQL queries to fetch client orders, inventory details, and sales data.
 - Reporting:
 Generate detailed reports such as revenue by client, top-selling items, pending payments, and more.
-- GUI Features:
-  - User-friendly graphical interface for seamless operation.
-  - Menu-driven terminal UI for efficient interaction.
+- Java Integration:
+JDBC-based application for connecting to Oracle databases and executing operations.
+- Graphical User Interface:
+User-friendly Swing-based interface for intuitive interaction with the database.
+
+Key Functionalities Demonstrated
+
+SQL Best Practices:
+- Advanced normalization (3NF).
+- Functional dependencies and relational constraints.
+- Use of views for efficient data retrieval.
+
+Java Integration:
+- Dynamic SQL execution using JDBC.
+- GUI development with Swing.
+
+Shell Automation:
+- Simplifies repetitive database operations.
