@@ -1,4 +1,4 @@
-<u> # Clothing Retail Store DBMS </u>
+# <u> Clothing Retail Store DBMS </u>
 This project is a Database Management System designed for a hypothetical bridal store, as part of a Database Systems course. The system integrates SQL, Java, and Shell Scripting to offer robust functionalities such as inventory and client management, order processing, and reporting. It also features both terminal-based and graphical user interfaces for ease of operation.
 
 ## Core Functionalities
