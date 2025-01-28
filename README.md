@@ -1,4 +1,4 @@
-# Clothing-Retail-Store-DBMS
+# Clothing Retail Store DBMS
 This project is a Database Management System (DBMS) designed for a bridal clothing store, Veilvet, specializing in veils and gowns for rental and purchase. The system ensures seamless management of inventory, customer orders, payments, alterations, and other key business processes. The project adheres to normalization standards (3NF) and enforces robust constraints to maintain data integrity and scalability.
 
 Core Functionalities
