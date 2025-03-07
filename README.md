@@ -33,7 +33,7 @@ This project is a Database Management System designed for a hypothetical bridal 
 | **Version Control** | Git & GitHub |
 
 ---
-##**Setup & Installation**
+## **Setup & Installation**
 
 ### **Database Setup**
 1. Install **Oracle SQL** or any compatible relational database.
